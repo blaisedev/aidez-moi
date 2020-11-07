@@ -1,0 +1,13 @@
+.logo {
+    -webkit-text-stroke: 1px black;
+    font-size: 8vw;
+    /*font-family: 'Dancing Script', cursive;*/
+    font-family: 'Indie Flower', cursive;
+}
+
+.footer-logo {
+    -webkit-text-stroke: 1px black;
+    font-size: 3vw;
+    /*font-family: 'Dancing Script', cursive;*/
+    font-family: 'Indie Flower', cursive;
+}
